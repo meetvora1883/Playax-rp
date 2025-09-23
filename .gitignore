@@ -1,0 +1,15 @@
+fakecars.txt
+install.txt
+mainDB.txt
+package-lock.json
+linux_x64.tar.gz
+
+.vs/
+bin/
+client_packages/
+json/
+
+.listcache
+
+server_exceptions.txt
+server_logs.txt

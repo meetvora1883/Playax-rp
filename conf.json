@@ -1,0 +1,20 @@
+{
+	"maxplayers" : 2000,
+	"name" : "[1.1] [roleplay] Metaverse Roleplay", 
+	"gamemode" : "roleplay",
+	"url": "https://metaverserp.in/",
+	"stream-distance" : 300.0,
+	"script-tick-rate": 10,
+	"announce" : false,
+	"voice-chat": true,
+	"voice-chat-sample-rate": 24000,
+	"csharp" : "enabled",
+	"language" : "in",
+	"broadcast-threads": 8,
+	"encryption": true,
+	"api-threading-debugging": true,
+	"port": 22005,
+	"enable-nodejs": false,
+	"limit-time-of-connections-per-ip": 750,
+	"net-min-packet-length": 100
+}
